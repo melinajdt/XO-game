@@ -11,7 +11,7 @@ I built this project as part of my JavaScript learning journey to practice progr
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🎮 Features
 
