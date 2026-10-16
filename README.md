@@ -1,7 +1,10 @@
-
 # 🎀 PinkMagic XO Game
 
 A cute and interactive Tic-Tac-Toe game with a soft pink aesthetic, neon effects, and playful animations.
+
+## 🎮 Live Demo
+
+✨ **[Play PinkMagic XO Game](YOUR-LIVE-DEMO-LINK)**
 
 ## ✨ About The Project
 
@@ -11,7 +14,7 @@ I built this project as part of my JavaScript learning journey to practice progr
 
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript
 
 ## 🎮 Features
 
@@ -41,4 +44,4 @@ This project is a hands-on JavaScript practice project created to improve my cod
 
 ---
 
-Made with 💗 and JavaScript by [Melina Jodat]
+Made with 💗 and JavaScript by **Melina Jodat**
