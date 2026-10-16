@@ -4,7 +4,7 @@ A cute and interactive Tic-Tac-Toe game with a soft pink aesthetic, neon effects
 
 ## 🎮 Live Demo
 
-✨ **[Play PinkMagic XO Game](YOUR-LIVE-DEMO-LINK)**
+✨ ** https://melinajdt.github.io/XO-game/**
 
 ## ✨ About The Project
 
